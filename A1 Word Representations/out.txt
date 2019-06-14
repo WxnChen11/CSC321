@@ -1,0 +1,22 @@
+loss_derivative[2, 5] 0.0013789153741
+loss_derivative[2, 121] -0.999459885968
+loss_derivative[5, 33] 0.000391942483563
+loss_derivative[5, 31] -0.708749715825
+
+param_gradient.word_embedding_weights[27, 2] -0.298510438589
+param_gradient.word_embedding_weights[43, 3] -1.13004162742
+param_gradient.word_embedding_weights[22, 4] -0.211118814492
+param_gradient.word_embedding_weights[2, 5] 0.0
+
+param_gradient.embed_to_hid_weights[10, 2] -0.0128399532941
+param_gradient.embed_to_hid_weights[15, 3] 0.0937808780803
+param_gradient.embed_to_hid_weights[30, 9] -0.16837240452
+param_gradient.embed_to_hid_weights[35, 21] 0.0619595914046
+
+param_gradient.hid_bias[10] -0.125907091215
+param_gradient.hid_bias[20] -0.389817847348
+
+param_gradient.output_bias[0] -2.23233392034
+param_gradient.output_bias[1] 0.0333102255428
+param_gradient.output_bias[2] -0.743090094025
+param_gradient.output_bias[3] 0.162372657748
